@@ -1,0 +1,18 @@
+@media screen and (max-width:700px) {
+.Balll{
+    display: none!important;
+}    
+}.social-handle-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.social-handle-item {
+  margin: 10px;
+}
+.text{
+  margin-left: 10%;
+  letter-spacing: normal;
+}
